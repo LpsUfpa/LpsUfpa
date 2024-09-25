@@ -1,6 +1,7 @@
 # UFPA Petrophysics and Seismic Laboratory (LPS)
 
-Welcome to the official GitHub repository of the **Petrophysics and Seismic Laboratory (LPS)** at the Federal University of Pará (UFPA). Our laboratory is dedicated to advancing geophysical research through the development of innovative methodologies and technologies for seismic data processing, petrophysical analysis, and subsurface exploration.
+Welcome to the official GitHub repository of the **Petrophysics and Seismic Laboratory (LPS)** at the Federal University of Pará (UFPA). Our laboratory focuses on advancing geophysical research through the development of innovative methodologies and technologies for seismic data processing, well tie, well-log petrophysical predictions, and denoising and enhancement of seismic sections. Additionally, part of our team works on applying machine learning to renewable energy challenges, including CO2 storage and geothermal energy, supporting sustainable energy solutions.
+
 
 ## 🔬 About LPS
 
@@ -40,10 +41,13 @@ This repository features a selection of our active research projects and tools d
 
 The LPS team consists of geophysicists, petrophysicists, and data scientists working on innovative solutions for subsurface exploration. Our team collaborates with academic institutions, industry partners, and international organizations to push the boundaries of geophysics research.
 
-- **Dr. José J. S. de Figueiredo** – Principal Investigator
-- **João Rafael Silveira** – PhD Researcher
-- **Celso R. L. Lima** – PhD Researcher
-- **Marcus L. do Amaral** – MsC Researcher
+- **Prof. José Jadsom de Figueiredo** – Principal Investigator
+- **[João Rafael B. S. da Silveira](https://github.com/JrafaelSilveira)**– PhD Researcher
+- **[Celso R. L. Lima](https://github.com/rafalima7)** – PhD Researcher
+- **Patrick Santana Matos Quadros** – PhD Researcher  
+- **Carlos Eduardo Amanajás** – PhD Researcher  
+- **[Marcus Lucas do Amaral](https://github.com/marcuslucamaral)** – MSc Researcher  
+- **José Frank Vanzeler Gonçalves** – MSc Researcher  
 
 ## 📄 Publications
 
