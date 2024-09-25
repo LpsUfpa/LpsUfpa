@@ -20,7 +20,7 @@ This repository features a selection of our active research projects and tools d
 ### 1. **Seismic Denoising Using GANs**  
    - **Description**: Development of Generative Adversarial Networks (GANs) to reduce noise and improve resolution in seismic data. The project applies deep learning techniques to datasets from the Taranaki Basin.
    - **Tools**: Python, TensorFlow, GAN architectures
-   - **Folder**: `/Seismic-Denoising-GANs`
+   - **Folder**: **/[Seismic-Denoise](https://github.com/LpsUfpa/Seismic-Denoise)**
 
 ### 2. **S-Wave Log Construction Using Machine Learning**  
    - **Description**: This project explores semi-supervised regression methods for S-wave log prediction, combining clustering with various machine learning regressors to enhance the accuracy of well-log interpretation.
