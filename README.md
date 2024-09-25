@@ -32,14 +32,13 @@ This repository features a selection of our active research projects and tools d
    - **Description**: This project explores the inversion of well-log electromagnetic data using deep learning to enhance subsurface characterization. By applying advanced algorithms, it improves the accuracy of geological insights, aiding resource exploration and geophysical analysis.
    - **Tools**: Python, Keras, CNN, PyTorch
    - **Researcher**: **[Celso R. L. Lima](https://github.com/rafalima7)**
-   - **Folder**: `/Seismic-Fault-Detection`
+   
 
 ### 4. **Petrophysical Inversion for Rock Property Prediction**  
    - **Description**: Machine learning models for predicting rock properties such as porosity and permeability based on well-log data, using a combination of regression models and clustering techniques.
    - **Tools**: Python, Scikit-learn, MLP, SVR
    - **Researcher**: **José Frank Vanzeler Gonçalves**
-   - **Folder**: `/Petrophysical-Inversion`
-
+  
 ## 👩‍💻 Team
 
 The LPS team consists of geophysicists, petrophysicists, and data scientists working on innovative solutions for subsurface exploration. Our team collaborates with academic institutions, industry partners, and international organizations to push the boundaries of geophysics research.
