@@ -41,7 +41,7 @@ This repository features a selection of our active research projects and tools d
 
 The LPS team consists of geophysicists, petrophysicists, and data scientists working on innovative solutions for subsurface exploration. Our team collaborates with academic institutions, industry partners, and international organizations to push the boundaries of geophysics research.
 
-- **Prof. José Jadsom de Figueiredo** – Principal Investigator
+- **[José Jadsom de Figueiredo](https://github.com/jadsomjose)** – Research Group Coordinator
 - **[João Rafael B. S. da Silveira](https://github.com/JrafaelSilveira)**– PhD Researcher
 - **[Celso R. L. Lima](https://github.com/rafalima7)** – PhD Researcher
 - **Patrick Santana Matos Quadros** – PhD Researcher  
