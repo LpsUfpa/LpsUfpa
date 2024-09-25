@@ -20,6 +20,7 @@ This repository features a selection of our active research projects and tools d
 ### 1. **Seismic Denoising Using GANs**  
    - **Description**: Development of Generative Adversarial Networks (GANs) to reduce noise and improve resolution in seismic data. The project applies deep learning techniques to datasets from the Taranaki Basin.
    - **Tools**: Python, TensorFlow, GAN architectures
+   - **Researcher**: **[João Rafael B. S. da Silveira](https://github.com/JrafaelSilveira)**
    - **Folder**: **/[Seismic-Denoise](https://github.com/LpsUfpa/Seismic-Denoise)**
 
 ### 2. **S-Wave Log Construction Using Machine Learning**  
@@ -27,14 +28,16 @@ This repository features a selection of our active research projects and tools d
    - **Tools**: Python, Scikit-learn, K-means, SVR, MLP
    - **Folder**: `/S-Wave-Prediction`
 
-### 3. **Seismic Fault Detection Using Deep Learning**  
-   - **Description**: A deep learning approach for automatic detection of seismic faults using convolutional neural networks (CNNs), aimed at improving the interpretability of seismic surveys.
-   - **Tools**: Python, Keras, CNN
+### 3. **Inversion of Well-Log Electromagnetic Data Using Deep Learning Techniques**  
+   - **Description**: This project explores the inversion of well-log electromagnetic data using deep learning to enhance subsurface characterization. By applying advanced algorithms, it improves the accuracy of geological insights, aiding resource exploration and geophysical analysis.
+   - **Tools**: Python, Keras, CNN, PyTorch
+   - **Researcher**: **[Celso R. L. Lima](https://github.com/rafalima7)**
    - **Folder**: `/Seismic-Fault-Detection`
 
 ### 4. **Petrophysical Inversion for Rock Property Prediction**  
    - **Description**: Machine learning models for predicting rock properties such as porosity and permeability based on well-log data, using a combination of regression models and clustering techniques.
    - **Tools**: Python, Scikit-learn, MLP, SVR
+   - **Researcher**: **José Frank Vanzeler Gonçalves**
    - **Folder**: `/Petrophysical-Inversion`
 
 ## 👩‍💻 Team
