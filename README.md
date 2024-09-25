@@ -30,7 +30,7 @@ This repository features a selection of our active research projects and tools d
 
 ### 3. **Inversion of Well-Log Electromagnetic Data Using Deep Learning Techniques**  
    - **Description**: This project explores the inversion of well-log electromagnetic data using deep learning to enhance subsurface characterization. By applying advanced algorithms, it improves the accuracy of geological insights, aiding resource exploration and geophysical analysis.
-   - **Tools**: Python, Keras, CNN, PyTorch
+   - **Tools**: Python, Optuna, CNN, PyTorch
    - **Researcher**: **[Celso R. L. Lima](https://github.com/rafalima7)**
    
 
